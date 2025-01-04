@@ -44,19 +44,19 @@ Welcome to the **Rock Paper Scissors** game, a classic hand game reimagined in P
 - Tracking Scores:
     Variables user_wins, computer_wins, and ties keep track of the game outcomes.
 
-  ## Contributing
+## Contributing
 
-  Contributions are welcome! Feel free to fork the repository, create a feature branch, and submit a pull request.
+Contributions are welcome! Feel free to fork the repository, create a feature branch, and submit a pull request.
 
-  ## Possible Improvements
+## Possible Improvements
 
-  - Add support for extended choices (e.g., "Lizard" and "Spock").
-  - Implement a graphical user interface (GUI).
-  - Allow users to set the number of rounds.
-  - Include multiplayer support.
+- Add support for extended choices (e.g., "Lizard" and "Spock").
+- Implement a graphical user interface (GUI).
+- Allow users to set the number of rounds.
+- Include multiplayer support.
  
-  ## License
+## License
 
-  This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-  ### Have fun playing Rock Paper Scissors!
+### Have fun playing Rock Paper Scissors!
